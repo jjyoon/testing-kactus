@@ -1,0 +1,71 @@
+{
+  "_class": "group",
+  "do_objectID": "8D87BCA5-2BB4-4379-BFA0-C06BBB6CD466",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 414,
+    "width": 300,
+    "x": 0,
+    "y": 0
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "06C11ADB-D384-418B-9C2D-AE4A5A3FAB25"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "F48A59A5-CFD0-4E47-9167-8E6A82DDEFB9"
+    },
+    {
+      "class": "text",
+      "id": "99344318-9475-4F1E-BBE5-3EC34A1C8932"
+    },
+    {
+      "class": "text",
+      "id": "0D5C6CDF-5258-4CB1-B62A-861F3099DD84"
+    },
+    {
+      "class": "text",
+      "id": "EA664650-3637-4041-8C14-B5AA92468BD4"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "B148F637-E098-48ED-8617-22BF6F7551C1"
+    }
+  ],
+  "name": "Product Card Full Hover",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  }
+}

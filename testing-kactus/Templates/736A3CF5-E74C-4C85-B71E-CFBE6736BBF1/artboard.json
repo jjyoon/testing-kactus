@@ -1,0 +1,165 @@
+{
+  "_class": "artboard",
+  "backgroundColor": {
+    "_class": "color",
+    "alpha": 1,
+    "blue": 1,
+    "green": 1,
+    "red": 1
+  },
+  "do_objectID": "736A3CF5-E74C-4C85-B71E-CFBE6736BBF1",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 1998,
+    "width": 1024,
+    "x": 1538,
+    "y": -3410
+  },
+  "hasBackgroundColor": true,
+  "hasClickThrough": true,
+  "horizontalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "guides": [
+      32,
+      992,
+      282,
+      742
+    ]
+  },
+  "includeBackgroundColorInExport": true,
+  "includeInCloudUpload": true,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "text",
+      "id": "BAE6921F-3363-41AF-B712-31A2BF4CF438"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "06673E83-DE35-4590-866C-619C5543778D"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "B56F7B49-CE20-4DCC-A741-A409A6DBED87"
+    },
+    {
+      "class": "text",
+      "id": "41B57170-2059-4A49-8FB7-F137DDB38C4A"
+    },
+    {
+      "class": "text",
+      "id": "B4BEE108-DEDF-4680-AB93-456BC64A54BB"
+    },
+    {
+      "class": "text",
+      "id": "941B2862-91F4-4092-8789-DBEA05ECEE41"
+    },
+    {
+      "class": "text",
+      "id": "8BD9E42A-4A4E-473A-814D-D34B0DB33ADC"
+    },
+    {
+      "class": "text",
+      "id": "D43A4141-6D76-4F25-9D38-0954E5E461D4"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "B4934C5B-9B35-4445-9E2C-B14272544D1A"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "5D4B73EB-9E99-4CEB-ACB3-36B130A6649B"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "B9657AD5-355D-40B7-AFF1-26F2A0E3C2F1"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "8AFBD3B6-A6D4-47DD-B806-2F0D8E13683F"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "FD7FED7A-09C5-4BD4-A880-256C35FE4227"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "8A6612CD-90C2-4E6D-8CC5-9B51280AB712"
+    }
+  ],
+  "layout": {
+    "_class": "layoutGrid",
+    "columnWidth": 60,
+    "drawHorizontal": false,
+    "drawHorizontalLines": false,
+    "drawVertical": true,
+    "gutterHeight": 12,
+    "gutterWidth": 20,
+    "guttersOutside": true,
+    "horizontalOffset": 32,
+    "isEnabled": false,
+    "numberOfColumns": 12,
+    "rowHeightMultiplication": 5,
+    "totalWidth": 960
+  },
+  "name": "Desktop-Discover",
+  "nameIsFixed": true,
+  "resizesContent": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "fills": [
+      {
+        "_class": "fill",
+        "color": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 1,
+          "green": 1,
+          "red": 1
+        },
+        "fillType": 0,
+        "isEnabled": true,
+        "noiseIndex": 0,
+        "noiseIntensity": 0,
+        "patternFillType": 1,
+        "patternTileScale": 1
+      }
+    ],
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  },
+  "verticalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "guides": [
+      60,
+      80
+    ]
+  }
+}

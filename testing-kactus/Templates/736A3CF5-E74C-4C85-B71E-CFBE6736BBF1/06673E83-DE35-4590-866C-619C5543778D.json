@@ -1,0 +1,65 @@
+{
+  "_class": "symbolInstance",
+  "do_objectID": "06673E83-DE35-4590-866C-619C5543778D",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 38,
+    "width": 355,
+    "x": 335,
+    "y": 80
+  },
+  "horizontalSpacing": 0,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "masterInfluenceEdgeMaxXPadding": 0,
+  "masterInfluenceEdgeMaxYPadding": 0,
+  "masterInfluenceEdgeMinXPadding": 0,
+  "masterInfluenceEdgeMinYPadding": 0,
+  "name": "Nav / Secondary / 4 Tabs",
+  "nameIsFixed": false,
+  "overrides": {
+    "2D146106-B377-476E-8715-AAF9639424BA": {
+      "94F3663C-281A-4094-807E-4A479DD57D62": "Advice"
+    },
+    "A9D4B768-0329-4F1F-BADC-16A80DCA6831": {
+      "94F3663C-281A-4094-807E-4A479DD57D62": "Brands"
+    },
+    "B3C58781-6098-4182-9C4C-1B1B738846D0": {
+      "94F3663C-281A-4094-807E-4A479DD57D62": "Looks"
+    },
+    "FA56CCBF-9AA7-4399-9167-9762CC1AD4D9": {
+      "2EBA715C-E218-41B7-AFF9-4B63E817E3A7": "Latest"
+    }
+  },
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "symbolID": "4BDAB0E6-2928-49BA-AFC2-E5FB9501C61E",
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  },
+  "verticalSpacing": 0
+}

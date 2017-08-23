@@ -1,0 +1,153 @@
+{
+  "_class": "artboard",
+  "backgroundColor": {
+    "_class": "color",
+    "alpha": 1,
+    "blue": 1,
+    "green": 1,
+    "red": 1
+  },
+  "do_objectID": "FF449982-8FF1-44AB-8AB6-6E683C602819",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 913,
+    "width": 1024,
+    "x": 16705,
+    "y": -12
+  },
+  "hasBackgroundColor": true,
+  "hasClickThrough": false,
+  "horizontalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "guides": [
+      32,
+      992,
+      282,
+      742
+    ]
+  },
+  "includeBackgroundColorInExport": true,
+  "includeInCloudUpload": true,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "symbolInstance",
+      "id": "2B0E08D8-713A-41CC-9FE4-2CA1E9C773AF"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "09E21CD6-3491-4EE2-9F59-476CDFD7F803"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "EBB6AF54-B391-4A6F-B54A-FF9710F00DBB"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "2669F7F2-297D-4A9A-A446-2243F7D3B2AD"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "8BC2439B-7B04-4920-AB38-670F1EB5C819"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "A58E4DB7-8C8E-4536-B9B5-63A173A1EAA2"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "12333EE3-237A-4D5B-914D-A82E988DC5D1"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "6D59638A-ABCB-4307-A977-7AB8A4BEF530"
+    },
+    {
+      "class": "text",
+      "id": "F4A2A45A-B68D-4326-9A57-1217F3A7EEF7"
+    },
+    {
+      "class": "text",
+      "id": "8685F305-501C-4347-83AE-F6CA5A00E6E1"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "BBE8C5DD-EE60-499D-A80B-9826BD46C226"
+    }
+  ],
+  "layout": {
+    "_class": "layoutGrid",
+    "columnWidth": 60,
+    "drawHorizontal": false,
+    "drawHorizontalLines": false,
+    "drawVertical": true,
+    "gutterHeight": 12,
+    "gutterWidth": 20,
+    "guttersOutside": true,
+    "horizontalOffset": 32,
+    "isEnabled": false,
+    "numberOfColumns": 12,
+    "rowHeightMultiplication": 5,
+    "totalWidth": 960
+  },
+  "name": "Desktop-Form-Address",
+  "nameIsFixed": true,
+  "resizesContent": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "fills": [
+      {
+        "_class": "fill",
+        "color": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 1,
+          "green": 1,
+          "red": 1
+        },
+        "fillType": 0,
+        "isEnabled": true,
+        "noiseIndex": 0,
+        "noiseIntensity": 0,
+        "patternFillType": 1,
+        "patternTileScale": 1
+      }
+    ],
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  },
+  "verticalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "guides": [
+      60,
+      80
+    ]
+  }
+}

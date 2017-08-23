@@ -1,0 +1,59 @@
+{
+  "_class": "group",
+  "do_objectID": "DAD7CD4B-4DF8-472A-8F47-79A9A23606E9",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 280,
+    "width": 170,
+    "x": 0,
+    "y": 0
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "04504BA1-5ACF-423E-9B07-F9F0EBFAAEDD"
+    },
+    {
+      "class": "group",
+      "id": "B0D8A80D-3000-4F59-B2E9-6B2D28BF187A"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "0B5721FB-D032-43F2-8E30-8510ECCCE5E7"
+    }
+  ],
+  "name": "Pinterest Pin",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  }
+}

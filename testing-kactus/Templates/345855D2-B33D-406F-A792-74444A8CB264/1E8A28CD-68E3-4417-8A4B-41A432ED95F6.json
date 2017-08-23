@@ -1,0 +1,54 @@
+{
+  "_class": "text",
+  "attributedString": {
+    "_class": "MSAttributedString",
+    "archivedAttributedString": {
+      "_archive": "YnBsaXN0MDDUAQIDBAUGaWpYJHZlcnNpb25YJG9iamVjdHNZJGFyY2hpdmVyVCR0b3ASAAGGoK8QHAcIDxAiIyQlJicoKS01Njc4OUBETFBUSVdfY2VVJG51bGzTCQoLDA0OWE5TU3RyaW5nViRjbGFzc1xOU0F0dHJpYnV0ZXOAAoAbgANdRGVjbGluZSB0cnVua9MREgoTGiFXTlMua2V5c1pOUy5vYmplY3RzphQVFhcYGYAEgAWABoAHgAiACaYbHBseHyCACoALgAqAE4AXgBiAGlZOU0tlcm5fEB9NU0F0dHJpYnV0ZWRTdHJpbmdGb250QXR0cmlidXRlXxAPTlNTdHJpa2V0aHJvdWdoV05TQ29sb3JbTlNVbmRlcmxpbmVfEBBOU1BhcmFncmFwaFN0eWxlEADSCiorLF8QGk5TRm9udERlc2NyaXB0b3JBdHRyaWJ1dGVzgBKADNMREgouMTSiLzCADYAOojIzgA+AEIARXxATTlNGb250U2l6ZUF0dHJpYnV0ZV8QE05TRm9udE5hbWVBdHRyaWJ1dGUjQDAAAAAAAABfEBJBa2t1cmF0U3RkLVJlZ3VsYXLSOjs8PVokY2xhc3NuYW1lWCRjbGFzc2VzXxATTlNNdXRhYmxlRGljdGlvbmFyeaM8Pj9cTlNEaWN0aW9uYXJ5WE5TT2JqZWN00jo7QUJfEBBOU0ZvbnREZXNjcmlwdG9yokM/XxAQTlNGb250RGVzY3JpcHRvctRFRkcKSElKS1VOU1JHQlxOU0NvbG9yU3BhY2VfEBJOU0N1c3RvbUNvbG9yU3BhY2VPECcwLjcxNzY0NzA1ODggMC40OTAxOTYwNzg0IDAuMzkyMTU2ODYyNwAQAYAUgBbSTQpOT1ROU0lEEAGAFdI6O1FSXE5TQ29sb3JTcGFjZaJTP1xOU0NvbG9yU3BhY2XSOjtVVldOU0NvbG9yolU/1VhZWgpbSVxdXl1bTlNBbGlnbm1lbnRaTlNUYWJTdG9wc18QD05TTWluTGluZUhlaWdodF8QD05TTWF4TGluZUhlaWdodIAAI0AyAAAAAAAAgBnSOjtgYV8QF05TTXV0YWJsZVBhcmFncmFwaFN0eWxlo2BiP18QEE5TUGFyYWdyYXBoU3R5bGXSOjs+ZKI+P9I6O2ZnXxASTlNBdHRyaWJ1dGVkU3RyaW5nomg/XxASTlNBdHRyaWJ1dGVkU3RyaW5nXxAPTlNLZXllZEFyY2hpdmVy0WtsVHJvb3SAAQAIABEAGgAjAC0AMgA3AFYAXABjAGwAcwCAAIIAhACGAJQAmwCjAK4AtQC3ALkAuwC9AL8AwQDIAMoAzADOANAA0gDUANYA3QD/AREBGQElATgBOgE/AVwBXgFgAWcBagFsAW4BcQFzAXUBdwGNAaMBrAHBAcYB0QHaAfAB9AIBAgoCDwIiAiUCOAJBAkcCVAJpApMClQKXApkCngKjAqUCpwKsArkCvALJAs4C1gLZAuQC8AL7Aw0DHwMhAyoDLAMxA0sDTwNiA2cDagNvA4QDhwOcA64DsQO2AAAAAAAAAgEAAAAAAAAAbQAAAAAAAAAAAAAAAAAAA7g="
+    }
+  },
+  "automaticallyDrawOnUnderlyingPath": false,
+  "do_objectID": "1E8A28CD-68E3-4417-8A4B-41A432ED95F6",
+  "dontSynchroniseWithSymbol": false,
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 18,
+    "width": 99,
+    "x": 137,
+    "y": 2739
+  },
+  "glyphBounds": "{{0, 0}, {99, 16}}",
+  "heightIsClipped": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "lineSpacingBehaviour": 2,
+  "name": "Decline trunk",
+  "nameIsFixed": false,
+  "resizingConstraint": 47,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "sharedObjectID": "8C626223-6440-4AE8-8E9C-24D62CF3B8A1"
+  },
+  "textBehaviour": 0,
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+        "isAutoWidth": 1
+      }
+    }
+  }
+}

@@ -1,0 +1,123 @@
+{
+  "_class": "page",
+  "do_objectID": "25310012-D973-4E83-8E8B-5DCB33A22F49",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 300,
+    "width": 300,
+    "x": 0,
+    "y": 0
+  },
+  "hasClickThrough": true,
+  "horizontalRulerData": {
+    "_class": "rulerData",
+    "base": -777,
+    "guides": [
+    ]
+  },
+  "includeInCloudUpload": true,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "artboard",
+      "id": "EDFBA8D9-A32E-43B3-98E9-84CA838BD699"
+    },
+    {
+      "class": "artboard",
+      "id": "8BB54C04-D704-4BB0-874F-FEA0534AF287"
+    },
+    {
+      "class": "artboard",
+      "id": "CA5BF787-E13F-461C-BAEA-475F1A06C237"
+    },
+    {
+      "class": "artboard",
+      "id": "0434CDFA-BF8D-4B2E-B152-C9ED7C37DF7F"
+    },
+    {
+      "class": "artboard",
+      "id": "4FA17DE4-270A-4CC5-95A5-B43A63A897BE"
+    },
+    {
+      "class": "artboard",
+      "id": "C29FB003-AF87-40FE-AA82-2EA7EDF3970D"
+    },
+    {
+      "class": "artboard",
+      "id": "5207FD28-1542-4EE7-993F-26B1EF573E06"
+    },
+    {
+      "class": "artboard",
+      "id": "DDCD4305-2F85-4D6D-8014-7830A8FF603A"
+    },
+    {
+      "class": "artboard",
+      "id": "EEC45C43-DC49-4FE9-9556-C8710FCAAC43"
+    },
+    {
+      "class": "artboard",
+      "id": "AA259E21-6FB2-4DAE-AEB2-D244B6780C8C"
+    },
+    {
+      "class": "artboard",
+      "id": "58ED08DE-9FBE-4867-9A62-8B3E2534157E"
+    },
+    {
+      "class": "artboard",
+      "id": "2C756216-59B0-4814-B072-67DBFE1977BF"
+    }
+  ],
+  "name": "Components",
+  "nameIsFixed": true,
+  "resizingConstraint": 0,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "userInfo": {
+    "com.betterthantomorrow.sketch.distributor": {
+      "distributorDimension": 1,
+      "distributorSpacing": "8"
+    },
+    "com.silverflows.osx.silver": {
+      "componentInfo": {
+        "name": "Components"
+      },
+      "componentType": "Flow",
+      "version": 1
+    },
+    "com.silverflows.osx.silver.updated": {
+      "0434CDFA-BF8D-4B2E-B152-C9ED7C37DF7F": 1489435559,
+      "4FA17DE4-270A-4CC5-95A5-B43A63A897BE": 1490197696,
+      "5207FD28-1542-4EE7-993F-26B1EF573E06": 1490030132,
+      "AA259E21-6FB2-4DAE-AEB2-D244B6780C8C": 1490646205,
+      "C29FB003-AF87-40FE-AA82-2EA7EDF3970D": 1490639288,
+      "EDFBA8D9-A32E-43B3-98E9-84CA838BD699": 1489435552
+    }
+  },
+  "verticalRulerData": {
+    "_class": "rulerData",
+    "base": -443,
+    "guides": [
+    ]
+  }
+}

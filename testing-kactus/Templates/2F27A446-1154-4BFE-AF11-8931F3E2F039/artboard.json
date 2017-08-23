@@ -1,0 +1,137 @@
+{
+  "_class": "artboard",
+  "backgroundColor": {
+    "_class": "color",
+    "alpha": 1,
+    "blue": 1,
+    "green": 1,
+    "red": 1
+  },
+  "do_objectID": "2F27A446-1154-4BFE-AF11-8931F3E2F039",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 800,
+    "width": 1024,
+    "x": 1538,
+    "y": 7314
+  },
+  "hasBackgroundColor": true,
+  "hasClickThrough": false,
+  "horizontalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "guides": [
+      352,
+      992
+    ]
+  },
+  "includeBackgroundColorInExport": true,
+  "includeInCloudUpload": true,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "group",
+      "id": "B033B327-217B-4ACE-B8A6-59EE2DA660C6"
+    },
+    {
+      "class": "group",
+      "id": "17A4E87C-2029-4A9B-BCEB-45599DA1F622"
+    },
+    {
+      "class": "text",
+      "id": "D12FC5C5-E6F7-4BB5-B8BA-E8857504C6F6"
+    },
+    {
+      "class": "group",
+      "id": "E2C050B5-9CD8-473E-9AE4-5A1DD03B8D79"
+    },
+    {
+      "class": "text",
+      "id": "3B514DD0-AA0C-4225-B6C9-46BCBF94100C"
+    },
+    {
+      "class": "text",
+      "id": "F545F74D-951D-43FB-ADFC-1E26E982AAB9"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "82721A21-EE36-42B4-9EB0-DB63C5E6B20D"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "F19611C9-C8BB-4A3D-AEFE-5EB85AF4226F"
+    }
+  ],
+  "layout": {
+    "_class": "layoutGrid",
+    "columnWidth": 60,
+    "drawHorizontal": false,
+    "drawHorizontalLines": false,
+    "drawVertical": true,
+    "gutterHeight": 12,
+    "gutterWidth": 20,
+    "guttersOutside": true,
+    "horizontalOffset": 352,
+    "isEnabled": false,
+    "numberOfColumns": 8,
+    "rowHeightMultiplication": 5,
+    "totalWidth": 640
+  },
+  "name": "Desktop-Profile",
+  "nameIsFixed": true,
+  "resizesContent": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "fills": [
+      {
+        "_class": "fill",
+        "color": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 1,
+          "green": 1,
+          "red": 1
+        },
+        "fillType": 0,
+        "isEnabled": true,
+        "noiseIndex": 0,
+        "noiseIntensity": 0,
+        "patternFillType": 1,
+        "patternTileScale": 1
+      }
+    ],
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  },
+  "verticalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "guides": [
+    ]
+  }
+}

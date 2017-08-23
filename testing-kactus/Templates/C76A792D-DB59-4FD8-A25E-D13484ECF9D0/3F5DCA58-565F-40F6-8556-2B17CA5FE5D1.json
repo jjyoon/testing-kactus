@@ -1,0 +1,63 @@
+{
+  "_class": "symbolInstance",
+  "do_objectID": "3F5DCA58-565F-40F6-8556-2B17CA5FE5D1",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 112,
+    "width": 375,
+    "x": 0,
+    "y": 501.9999999999999
+  },
+  "horizontalSpacing": 0,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "masterInfluenceEdgeMaxXPadding": 0,
+  "masterInfluenceEdgeMaxYPadding": 1,
+  "masterInfluenceEdgeMinXPadding": 0,
+  "masterInfluenceEdgeMinYPadding": 0,
+  "name": "Table Cell / w Header",
+  "nameIsFixed": false,
+  "overrides": {
+    "2A5107D5-DB15-4969-BCA8-78DA9B515D3E": " ",
+    "517835E9-44F0-4551-B1F1-513690E0F066": {
+      "symbolID": ""
+    },
+    "851FFD1E-CA35-4CCA-A761-ABA68484DBAC": "Special instructions",
+    "DE0639C9-71CC-4DBA-8049-61CF5976A431": {
+      "0068ACD8-3D90-4250-AB2C-6FFF2F42BB44": "Leave a pickup note",
+      "60B32F30-D4B7-4908-92FE-AB373DFE79C1": "Leave a pickup note",
+      "symbolID": "1B872E5A-95E2-49AF-991A-6A84454A0854"
+    }
+  },
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "symbolID": "30E4E38A-567F-4073-93F5-9CDEF932D0A1",
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  },
+  "verticalSpacing": 0
+}

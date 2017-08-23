@@ -1,0 +1,145 @@
+{
+  "_class": "artboard",
+  "backgroundColor": {
+    "_class": "color",
+    "alpha": 1,
+    "blue": 1,
+    "green": 1,
+    "red": 1
+  },
+  "do_objectID": "55406648-AAB3-4777-A6D8-364CC1DB7B92",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 667,
+    "width": 375,
+    "x": 7544,
+    "y": 2855
+  },
+  "hasBackgroundColor": true,
+  "hasClickThrough": false,
+  "horizontalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "guides": [
+      16,
+      359
+    ]
+  },
+  "includeBackgroundColorInExport": true,
+  "includeInCloudUpload": true,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "symbolInstance",
+      "id": "29A307AE-BA7A-4BD3-9B77-61315D193A83"
+    },
+    {
+      "class": "text",
+      "id": "53A43656-271A-4645-8E5F-58CF3DBF130F"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "5AAA264F-5DAB-4764-89CA-47F6A49864D0"
+    },
+    {
+      "class": "text",
+      "id": "B6468676-9189-4E41-850C-33B18D8B69EC"
+    },
+    {
+      "class": "text",
+      "id": "05F0B2E4-49CF-4611-957E-F0E6D492C04E"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "9BFEBC12-B74E-4682-9110-37FFDF748A69"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "33189521-FEAE-4DA0-B0D8-18648F9E9065"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "6F61C149-46BD-49C7-9D4F-ED40D4B2F7A9"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "628F8C26-9D74-4306-B5DD-3C0A232DE4EF"
+    }
+  ],
+  "layout": {
+    "_class": "layoutGrid",
+    "columnWidth": 60,
+    "drawHorizontal": false,
+    "drawHorizontalLines": false,
+    "drawVertical": true,
+    "gutterHeight": 12,
+    "gutterWidth": 20,
+    "guttersOutside": true,
+    "horizontalOffset": 27.5,
+    "isEnabled": false,
+    "numberOfColumns": 12,
+    "rowHeightMultiplication": 5,
+    "totalWidth": 960
+  },
+  "name": "Mobile-Exchange Modal",
+  "nameIsFixed": true,
+  "resizesContent": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "fills": [
+      {
+        "_class": "fill",
+        "color": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 1,
+          "green": 1,
+          "red": 1
+        },
+        "fillType": 0,
+        "isEnabled": true,
+        "noiseIndex": 0,
+        "noiseIntensity": 0,
+        "patternFillType": 1,
+        "patternTileScale": 1
+      }
+    ],
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  },
+  "verticalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "guides": [
+      65,
+      125,
+      145,
+      622
+    ]
+  }
+}

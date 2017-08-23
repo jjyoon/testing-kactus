@@ -1,0 +1,169 @@
+{
+  "_class": "artboard",
+  "backgroundColor": {
+    "_class": "color",
+    "alpha": 1,
+    "blue": 1,
+    "green": 1,
+    "red": 1
+  },
+  "do_objectID": "54B7BC42-076D-4803-BC45-2E8AE14C2085",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 743,
+    "width": 375,
+    "x": 7969,
+    "y": 2855
+  },
+  "hasBackgroundColor": true,
+  "hasClickThrough": false,
+  "horizontalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "guides": [
+      16,
+      359
+    ]
+  },
+  "includeBackgroundColorInExport": true,
+  "includeInCloudUpload": true,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "symbolInstance",
+      "id": "345510DD-42D4-45B8-8398-EC08057D8F85"
+    },
+    {
+      "class": "text",
+      "id": "35CFA96D-79F6-4349-839B-48FDB34C8E11"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "9AD658D9-73E1-43FD-AEB0-42F2D65C3B56"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "20019597-0F25-4BC6-825F-FDF0E11B359F"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "07AC8709-D281-4D8B-A4D0-A6FBD87B84EF"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "915C8E2E-4C2F-4836-AD77-A72B87BFFF9E"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "695C5AB8-A45A-44B9-9E70-E480B90BEADC"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "EDA2EAC9-EB71-4EA4-85AA-555EE99D6FE1"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "0D787290-446E-4F07-AD28-EA94B542E7D6"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "90E0F011-07BA-4A93-B5E2-59781FD5EF55"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "06C6C1D0-6963-4563-9D16-C7A3F00E4B27"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "D3E2772B-4187-49F3-A76E-5602F0DA0A9D"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "82ECABE4-35AD-4911-B957-51690A7BEA10"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "9DB83EC2-72BF-4798-8FBA-ECFD747ACE13"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "C9D469FA-8246-4E5E-8C07-17B70C29B8EB"
+    }
+  ],
+  "layout": {
+    "_class": "layoutGrid",
+    "columnWidth": 60,
+    "drawHorizontal": false,
+    "drawHorizontalLines": false,
+    "drawVertical": true,
+    "gutterHeight": 12,
+    "gutterWidth": 20,
+    "guttersOutside": true,
+    "horizontalOffset": 27.5,
+    "isEnabled": false,
+    "numberOfColumns": 12,
+    "rowHeightMultiplication": 5,
+    "totalWidth": 960
+  },
+  "name": "Mobile-Return Modal",
+  "nameIsFixed": true,
+  "resizesContent": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "fills": [
+      {
+        "_class": "fill",
+        "color": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 1,
+          "green": 1,
+          "red": 1
+        },
+        "fillType": 0,
+        "isEnabled": true,
+        "noiseIndex": 0,
+        "noiseIntensity": 0,
+        "patternFillType": 1,
+        "patternTileScale": 1
+      }
+    ],
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  },
+  "verticalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "guides": [
+      65,
+      125,
+      145,
+      622
+    ]
+  }
+}

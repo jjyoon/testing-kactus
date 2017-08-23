@@ -1,0 +1,71 @@
+{
+  "_class": "group",
+  "do_objectID": "7C0EB750-B209-44F7-B656-529E972FD54A",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 50,
+    "width": 375,
+    "x": 0,
+    "y": 0
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "06861DFC-3BA2-49C9-8644-6DF4AB7AF7D2"
+    },
+    {
+      "class": "text",
+      "id": "1381CB7F-BB66-4A4F-BE43-E8754C3C7917"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "14AF2D4C-7EE4-4DC6-9C0B-ABD22B9EA5BF"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "242BC446-4DB1-4731-8CA6-FD45F9F729C1"
+    },
+    {
+      "class": "text",
+      "id": "D624AE42-E10C-44CE-963C-F8F63E1C952B"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "138E1F7F-342C-493B-A4EA-1F2844208A0A"
+    }
+  ],
+  "name": "Messaging / Compose Bar",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  }
+}

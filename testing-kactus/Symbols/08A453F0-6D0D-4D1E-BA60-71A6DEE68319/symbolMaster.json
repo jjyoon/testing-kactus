@@ -1,0 +1,93 @@
+{
+  "_class": "symbolMaster",
+  "backgroundColor": {
+    "_class": "color",
+    "alpha": 1,
+    "blue": 1,
+    "green": 1,
+    "red": 1
+  },
+  "changeIdentifier": 119,
+  "do_objectID": "08A453F0-6D0D-4D1E-BA60-71A6DEE68319",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 80,
+    "width": 375,
+    "x": 3582,
+    "y": 824
+  },
+  "hasBackgroundColor": false,
+  "hasClickThrough": true,
+  "horizontalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "guides": [
+    ]
+  },
+  "includeBackgroundColorInExport": true,
+  "includeBackgroundColorInInstance": true,
+  "includeInCloudUpload": true,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "134ECE85-FB0A-41C9-B530-6A284097E6DB"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "3A5FEF3A-1EB2-4D87-BAB9-1B30B8CA53E5"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "F5E1993D-AB80-4DEC-BA87-40DAD3F4971C"
+    },
+    {
+      "class": "text",
+      "id": "E228C37B-7F73-49EC-8AF7-350D4C5E6038"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "D89EBBEE-8801-4067-A157-2755FE1598D0"
+    }
+  ],
+  "name": "Messaging / Compose Bar / iOS / Empty",
+  "nameIsFixed": true,
+  "resizesContent": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "symbolID": "5D6C2C65-E991-4546-8E68-BD9ACBBAAA1D",
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  },
+  "verticalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "guides": [
+    ]
+  }
+}

@@ -1,0 +1,54 @@
+{
+  "_class": "text",
+  "attributedString": {
+    "_class": "MSAttributedString",
+    "archivedAttributedString": {
+      "_archive": "YnBsaXN0MDDUAQIDBAUGaGlYJHZlcnNpb25YJG9iamVjdHNZJGFyY2hpdmVyVCR0b3ASAAGGoK8QHAcIDxAiIyQlJicoKS01Njc4OUBETFBUSVdeYmRVJG51bGzTCQoLDA0OWE5TU3RyaW5nViRjbGFzc1xOU0F0dHJpYnV0ZXOAAoAbgANfEBYgc2VydmljZUB0cnVua2NsdWIuY29t0xESChMaIVdOUy5rZXlzWk5TLm9iamVjdHOmFBUWFxgZgASABYAGgAeACIAJphscGx4fIIAKgAuACoATgBeAGIAaVk5TS2Vybl8QH01TQXR0cmlidXRlZFN0cmluZ0ZvbnRBdHRyaWJ1dGVfEA9OU1N0cmlrZXRocm91Z2hXTlNDb2xvcltOU1VuZGVybGluZV8QEE5TUGFyYWdyYXBoU3R5bGUQANIKKissXxAaTlNGb250RGVzY3JpcHRvckF0dHJpYnV0ZXOAEoAM0xESCi4xNKIvMIANgA6iMjOAD4AQgBFfEBNOU0ZvbnRTaXplQXR0cmlidXRlXxATTlNGb250TmFtZUF0dHJpYnV0ZSNAKgAAAAAAAF8QEkFra3VyYXRTdGQtUmVndWxhctI6Ozw9WiRjbGFzc25hbWVYJGNsYXNzZXNfEBNOU011dGFibGVEaWN0aW9uYXJ5ozw+P1xOU0RpY3Rpb25hcnlYTlNPYmplY3TSOjtBQl8QEE5TRm9udERlc2NyaXB0b3KiQz9fEBBOU0ZvbnREZXNjcmlwdG9y1EVGRwpISUpLVU5TUkdCXE5TQ29sb3JTcGFjZV8QEk5TQ3VzdG9tQ29sb3JTcGFjZU8QJzAuNzE3NjQ3MDU4OCAwLjQ5MDE5NjA3ODQgMC4zOTIxNTY4NjI3ABABgBSAFtJNCk5PVE5TSUQQAYAV0jo7UVJcTlNDb2xvclNwYWNlolM/XE5TQ29sb3JTcGFjZdI6O1VWV05TQ29sb3KiVT/UWApZWltcXV1aTlNUYWJTdG9wc18QD05TTWluTGluZUhlaWdodF8QD05TTWF4TGluZUhlaWdodIAAgBkjQDIAAAAAAADSOjtfYF8QF05TTXV0YWJsZVBhcmFncmFwaFN0eWxlo19hP18QEE5TUGFyYWdyYXBoU3R5bGXSOjs+Y6I+P9I6O2VmXxASTlNBdHRyaWJ1dGVkU3RyaW5nomc/XxASTlNBdHRyaWJ1dGVkU3RyaW5nXxAPTlNLZXllZEFyY2hpdmVy0WprVHJvb3SAAQAIABEAGgAjAC0AMgA3AFYAXABjAGwAcwCAAIIAhACGAJ8ApgCuALkAwADCAMQAxgDIAMoAzADTANUA1wDZANsA3QDfAOEA6AEKARwBJAEwAUMBRQFKAWcBaQFrAXIBdQF3AXkBfAF+AYABggGYAa4BtwHMAdEB3AHlAfsB/wIMAhUCGgItAjACQwJMAlICXwJ0Ap4CoAKiAqQCqQKuArACsgK3AsQCxwLUAtkC4QLkAu0C+AMKAxwDHgMgAykDLgNIA0wDXwNkA2cDbAOBA4QDmQOrA64DswAAAAAAAAIBAAAAAAAAAGwAAAAAAAAAAAAAAAAAAAO1"
+    }
+  },
+  "automaticallyDrawOnUnderlyingPath": false,
+  "do_objectID": "3EBF19F1-17A6-4333-B941-E80BAE22CC1B",
+  "dontSynchroniseWithSymbol": false,
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 18,
+    "width": 146,
+    "x": 361,
+    "y": 413
+  },
+  "glyphBounds": "{{0, 0}, {145, 16}}",
+  "heightIsClipped": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "lineSpacingBehaviour": 2,
+  "name": "service@trunkclub.co",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "sharedObjectID": "2FD33C20-BBF2-4C71-BDC1-327C79009088"
+  },
+  "textBehaviour": 0,
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+        "isAutoWidth": 1
+      }
+    }
+  }
+}

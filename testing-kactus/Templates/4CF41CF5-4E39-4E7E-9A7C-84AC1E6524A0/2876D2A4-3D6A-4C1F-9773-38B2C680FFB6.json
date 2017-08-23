@@ -1,0 +1,64 @@
+{
+  "_class": "symbolInstance",
+  "do_objectID": "2876D2A4-3D6A-4C1F-9773-38B2C680FFB6",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 241,
+    "width": 350,
+    "x": 13,
+    "y": 176
+  },
+  "horizontalSpacing": 0,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "masterInfluenceEdgeMaxXPadding": 1,
+  "masterInfluenceEdgeMaxYPadding": 0,
+  "masterInfluenceEdgeMinXPadding": 0,
+  "masterInfluenceEdgeMinYPadding": 0,
+  "name": "Modal / Two Actions",
+  "nameIsFixed": false,
+  "overrides": {
+    "3E5193DF-CA1F-446B-8007-DC5D406297D0": {
+      "B4247409-9044-45A4-9086-88DF2EDEF5E6": "Skip for now"
+    },
+    "415BC6FD-1C6D-41D8-A31B-0BC3B81DE222": "Schedule a pickup and we’ll have UPS come retrieve any returns for free.",
+    "43337313-1541-4A98-A4E7-FB72C7A47DAC": {
+      "symbolID": "A307B559-AF76-4F85-A4FA-339BDD54246A"
+    },
+    "B68F8BFC-CEA8-472F-97ED-F2E127EE7964": "Thanks for your feedback",
+    "E0F3F42D-6AD9-4784-8E0C-8DAEB8F176B5": {
+      "0E929C40-4AFB-465D-AA07-10315CBFFD6A": "Schedule a pickup"
+    }
+  },
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "symbolID": "59149B84-B9B5-41F0-A65E-7150B5A1AF76",
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  },
+  "verticalSpacing": 0
+}

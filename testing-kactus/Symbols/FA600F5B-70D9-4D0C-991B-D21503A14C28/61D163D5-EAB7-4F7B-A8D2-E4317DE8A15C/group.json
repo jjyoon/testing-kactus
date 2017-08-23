@@ -1,0 +1,63 @@
+{
+  "_class": "group",
+  "do_objectID": "61D163D5-EAB7-4F7B-A8D2-E4317DE8A15C",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 300,
+    "width": 343,
+    "x": 0,
+    "y": 0
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "81BB2123-C5A6-42CE-84C7-1B93068A7D6D"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "540C63EB-F3A4-438B-A59B-7877F6BE3FE0"
+    },
+    {
+      "class": "text",
+      "id": "9FA5AA06-BAE5-4A24-A768-AC4DA99491F2"
+    },
+    {
+      "class": "text",
+      "id": "F5A32B88-89B5-425F-AAF7-13677BC081F4"
+    }
+  ],
+  "name": "Onboarding Card Mobile",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  }
+}

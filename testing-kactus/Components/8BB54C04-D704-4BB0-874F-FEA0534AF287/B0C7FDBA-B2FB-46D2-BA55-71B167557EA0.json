@@ -1,0 +1,82 @@
+{
+  "_class": "symbolInstance",
+  "do_objectID": "B0C7FDBA-B2FB-46D2-BA55-71B167557EA0",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 90,
+    "width": 460,
+    "x": 80,
+    "y": 200
+  },
+  "horizontalSpacing": 0,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "masterInfluenceEdgeMaxXPadding": 9,
+  "masterInfluenceEdgeMaxYPadding": 0,
+  "masterInfluenceEdgeMinXPadding": 3,
+  "masterInfluenceEdgeMinYPadding": 8,
+  "name": "Ratings / Desktop",
+  "nameIsFixed": false,
+  "overrides": {
+    "0F6BA2B1-69DA-4EB1-B736-4AEE0596191D": {
+      "15EC0193-3FCD-4E9E-BF1D-4A78901B7015": "😐",
+      "4E31BCE5-00E6-4561-9B30-261E670D3FF7": "😐",
+      "62AB8640-99BA-4A48-8279-2BB48F424652": "Okay",
+      "7885613C-7E65-4BCE-96F6-2BA190E565CA": "Okay",
+      "symbolID": "14300F8D-4ECF-4A3A-8ED2-6CB7102832DB"
+    },
+    "2E5A8250-15F4-4A20-B674-FFE9B2016A91": {
+      "24B7AF37-D6DD-4681-A1BC-07DF3A1C6BC8": "Terrible",
+      "62AB8640-99BA-4A48-8279-2BB48F424652": "Terrible"
+    },
+    "AC9D8EA2-B535-45C9-A464-5400436040F8": {
+      "15EC0193-3FCD-4E9E-BF1D-4A78901B7015": "😕",
+      "24B7AF37-D6DD-4681-A1BC-07DF3A1C6BC8": "Bad",
+      "62AB8640-99BA-4A48-8279-2BB48F424652": "Bad",
+      "E1E50D5A-DA70-4CE8-BBD4-80F7C91EF36F": "😕"
+    },
+    "CE6289E5-1DEA-4FF2-A4D3-33B49CADE68A": {
+      "15EC0193-3FCD-4E9E-BF1D-4A78901B7015": "🙂",
+      "24B7AF37-D6DD-4681-A1BC-07DF3A1C6BC8": "Good",
+      "62AB8640-99BA-4A48-8279-2BB48F424652": "Good",
+      "E1E50D5A-DA70-4CE8-BBD4-80F7C91EF36F": "🙂"
+    },
+    "DB546AAE-7909-4C9D-A59C-7249091E6C44": {
+      "15EC0193-3FCD-4E9E-BF1D-4A78901B7015": "😁",
+      "24B7AF37-D6DD-4681-A1BC-07DF3A1C6BC8": "Great",
+      "62AB8640-99BA-4A48-8279-2BB48F424652": "Great",
+      "E1E50D5A-DA70-4CE8-BBD4-80F7C91EF36F": "😁"
+    }
+  },
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "symbolID": "81E548B8-684C-410B-95A5-50D7766D1F97",
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  },
+  "verticalSpacing": 0
+}

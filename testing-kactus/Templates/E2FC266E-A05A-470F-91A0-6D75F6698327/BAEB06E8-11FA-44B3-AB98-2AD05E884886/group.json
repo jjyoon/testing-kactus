@@ -1,0 +1,87 @@
+{
+  "_class": "group",
+  "do_objectID": "BAEB06E8-11FA-44B3-AB98-2AD05E884886",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 235,
+    "width": 378,
+    "x": 0,
+    "y": 74
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "1EAD3F96-0F4F-4437-9E6F-7DAD088FC853"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "BAF1D3D5-325C-44F0-A815-169A57FADD7F"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "539A13A4-0C2D-4016-9CAD-3325FD37CF7F"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "4D187182-1090-44FB-9CC0-4AF2C0E926FB"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "ACDE3B28-6167-4057-A04B-86AAF2C5F464"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "D497CD95-CC2F-480A-9C25-5C2C5ABEBAAD"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "D6048833-3CA0-45FC-A7F0-B8FE6BB2B381"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "5326C4D9-E5CA-4FAA-A3E9-3F7DEE05A34C"
+    },
+    {
+      "class": "text",
+      "id": "C3D6FF68-B1B6-4D65-A323-64DDE95A14AB"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "C9881B7D-6475-4982-B90C-3D207644FFA8"
+    }
+  ],
+  "name": "iOS Trunk Card",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  }
+}
