@@ -23,7 +23,7 @@
     "constrainProportions": false,
     "height": 15,
     "width": 112,
-    "x": 0,
+    "x": 29,
     "y": 28
   },
   "glyphBounds": "{{0, 0}, {112, 15}}",
@@ -36,7 +36,7 @@
   "lineSpacingBehaviour": 2,
   "name": "Sentinel Light 28px",
   "nameIsFixed": false,
-  "resizingConstraint": 63,
+  "resizingConstraint": 47,
   "resizingType": 0,
   "rotation": 0,
   "shouldBreakMaskChain": false,
