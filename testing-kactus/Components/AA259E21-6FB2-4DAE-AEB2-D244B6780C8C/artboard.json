@@ -55,10 +55,6 @@
       "id": "F949DD75-43E5-4E42-836E-CDAE01262523"
     },
     {
-      "class": "symbolInstance",
-      "id": "F54D7F1A-6A5D-4E56-BBEA-6434899AB28E"
-    },
-    {
       "class": "text",
       "id": "AE65819D-994D-4DB7-8A76-50D9762061CD"
     },
@@ -165,10 +161,6 @@
     {
       "class": "text",
       "id": "4A3F30D6-23F4-4328-85EC-513A61E8C9E7"
-    },
-    {
-      "class": "symbolInstance",
-      "id": "0281C1E6-EA2F-4AE4-8D8B-1C371114CF8A"
     }
   ],
   "name": "Cards",
