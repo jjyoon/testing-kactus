@@ -31,6 +31,7 @@
   "name": "Banner / Trunk status / Mobile",
   "nameIsFixed": false,
   "overrides": {
+    "6BD5BF0C-1F2B-415E-992B-2C12DAA6F795": "Insert here!"
   },
   "resizingConstraint": 63,
   "resizingType": 0,
