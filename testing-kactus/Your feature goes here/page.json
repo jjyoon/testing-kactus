@@ -32,6 +32,10 @@
   "isVisible": true,
   "layerListExpandedType": 0,
   "layers": [
+    {
+      "class": "artboard",
+      "id": "3C58CAC9-4CC1-4F3F-8680-6C07609A0786"
+    }
   ],
   "name": "Your feature goes here",
   "nameIsFixed": true,
